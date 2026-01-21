@@ -94,6 +94,28 @@ void MVT() {
     printf("Enter Total Memory Size: ");
     printf("Enter Total Memory Size: ");
     printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
+    printf("Enter Total Memory Size: ");
     scanf("%d", &ms);
 
     printf("Enter Number of Processes: ");
