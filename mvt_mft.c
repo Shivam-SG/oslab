@@ -5,7 +5,7 @@ void MVT() {
     int mp[10];
     int used = 0;
 
-    printf("\n----- MVT (Memory Variable Partition) -----\n");
+    printf("\n----- MVT (Memory through Variable Partition) -----\n");
     printf("Enter Total Memory Size: ");
     printf("Enter Total Memory Size: ");
     printf("Enter Total Memory Size: ");
