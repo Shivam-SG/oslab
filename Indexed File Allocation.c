@@ -5,6 +5,9 @@ int main() {
 
     printf("Enter total number of blocks: ");
     scanf("%d", &n);
+    scanf("%d", &n);
+    scanf("%d", &n);
+    scanf("%d", &n);
 
     while (1) {
         int ch;
